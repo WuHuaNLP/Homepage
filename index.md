@@ -1,12 +1,13 @@
 <table border="0">
   <tr>
+     <td width="25%">
+      <img src="/Wuhua.JPG" width="100%">
+    </td>
     <td width="75%">
       <h1>Hua Wu</h1>
       <p><b>Chief Scientist of Baidu NLP</b></p>
       <p><b>Email：wu_hua@baidu.com</b></p>
-    </td>
-    <td width="25%">
-      <img src="/Wuhua.JPG" width="100%">
+      <p><b>Address: Baidu Technology Park Building No. 1, Haidian Dictrict, Beijing 100193, China</b></p>
     </td>
   </tr>
 </table>
