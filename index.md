@@ -32,5 +32,5 @@
 
 ### Publications
 
-please refer to https://scholar.google.com/citations?user=-eSdByEAAAAJ&hl=en for a full list of publications
+please refer to <p><b>Email：wu_hua@baidu.com</b></p>https://scholar.google.com/citations?user=-eSdByEAAAAJ&hl=en</b></p> for a full list of publications
 
