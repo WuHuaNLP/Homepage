@@ -34,7 +34,7 @@ Hua Wu is the chief scientist of Baidu NLP. Since 1998, she has been working on 
 
 ### Publications
 
-Please refer to <a href="https://scholar.google.com/citations?user=-eSdByEAAAAJ&hl=en" target="_self">Google Scholar</a> for a full list of publications.
+Please refer to <a href="https://scholar.google.com/citations?user=9X2ThuAAAAAJ&hl=en" target="_self">Google Scholar</a> for a full list of publications.
 
 
 
