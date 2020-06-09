@@ -12,6 +12,8 @@
   </tr>
 </table>
 
+<br>
+Hua Wu is the chief scientist of Baidu NLP. Since 1998, she has been working on natural language processing. Over her ten years at Baidu, she and her team have achieved multiple technology breakthroughs in NLP and machine translation, many of which have been successfully deployed in a range of Baidu products used by hundreds of millions of users. 
 
 ### Research Interests
 -	Machine Translation
@@ -32,7 +34,7 @@
 
 ### Publications
 
-please refer to <a href="https://scholar.google.com/citations?user=-eSdByEAAAAJ&hl=en" target="_self">Google Scholar</a> for a full list of publications.
+Please refer to <a href="https://scholar.google.com/citations?user=-eSdByEAAAAJ&hl=en" target="_self">Google Scholar</a> for a full list of publications.
 
 
 
