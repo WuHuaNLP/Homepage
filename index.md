@@ -12,6 +12,55 @@
   </tr>
 </table>
 ————————————————
+
+<div class="table-bordered container">
+  <header class="header">
+    <div style="padding-bottom: 40px" class="row">
+      <div style="padding-top: 30px" class="col-md-10">
+        <div class="row">
+          <div class="col-md-12"><h2 class="pull-right">Yue Zhang</h2></div>
+        </div>
+        <p></p>
+        <div class="row"><div class="col-md-12"><span class="pull-right">Phone: +86 571 87381107</span></div></div>
+
+        <div class="row"><div class="col-md-12"><span class="pull-right">Email: yue.zhang@wias.org.cn</span></div></div>
+      </div>
+      <div class="col-md-2">
+        <img class="pull-right img-responsive img-thumbnail" src="yue_zhang.jpg" />
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <ul class="nav">
+          <li><a href="index.html">Homepage</a></li>
+          <li><a href="publication.html">Publications</a></li>
+          <li><a href="research.html">Research</a></li>
+          <li><a href="services.html">Services</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+  <div class="content">
+    <div class="row">
+      <div class="col-md-12">
+        <p></p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <img style="width:300px;margin: 0 auto;" class="img-responsive" src="images/20140402.jpg" />
+      </div>
+    </div>
+  </div>
+
+  <footer class="text-center">
+  </footer>
+</div>
+
+
+
+
+</body></html>
 ### Research Interests
 -	Machine Translation
 -	Dialogue Systems
