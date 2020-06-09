@@ -32,5 +32,7 @@
 
 ### Publications
 
-please refer to <p><b>https://scholar.google.com/citations?user=-eSdByEAAAAJ&hl=en</b></p> for a full list of publications
+please refer to <a href="https://scholar.google.com/citations?user=-eSdByEAAAAJ&hl=en" target="_self">Google Scholar</a> for a full list of publications.
+
+
 
